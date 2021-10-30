@@ -4,16 +4,17 @@ Check if your password has been compromised.
 This program uses the API from haveibeenpwned.com as found here:
 https://haveibeenpwned.com/API/v3#SearchingPwnedPasswordsByRange
 
-## Requirement
+## Prerequisite
 - node.js
 
-For first time setup, enter the following command in the terminal to install required dependencies.
+For first time setup, open a terminal at the root of cloned repository
+and enter the following command to install required dependencies.
 ```sh
 npm i
 ```
 
 ## Running the program
-Enter the following command in the terminal
+Enter the following command in the terminal at the root of cloned repository
 ```sh
 npm start
 ```
